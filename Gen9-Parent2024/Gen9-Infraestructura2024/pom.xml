@@ -13,6 +13,10 @@
 	<name>Gen9-Infraestructura2024</name>
 	<description>Demo project for Spring Boot</description>
 	<packaging>pom</packaging>
+
+	<modules>
+		<module>Gen9-EurekaServer2024</module>
+	</modules>
 	
 	<properties>
 	
